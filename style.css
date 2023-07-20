@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind&display=swap");
+
+* {
+  font-family: "Hind", sans-serif;
+}
+.span-element{
+  font-family:emoji;
+  font-size:30px;
+}
+.paragraph{
+  font-size:20px;
+
+}
+.para1 {
+  color:black;
+  font-family:roboto;
+  font-weight: bold;
+}
+.text {
+  text-decoration: underline;
+}
+.box1 {
+  background-color: green;
+  border-radius: 12px;
+  height: 20px;
+  width: 220px;
+  border-width: 0px;
+  color: white;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 5px;
+  margin-top: 50px;
+}
+
+.box2 {
+  background-color: green;
+  border-radius: 12px;
+  height: 20px;
+  width: 180px;
+  border-width: 0px;
+  color: white;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 5px;
+  margin-top: 32px;
+
+}
+
+.box3 {
+  background-color: green;
+  border-radius: 12px;
+  height: 20px;
+  width: 150px;
+  border-width: 0px;
+  color: white;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 5px;
+  margin-top: 22px;
+
+}
+
+.Bannerbgimg {
+  height: 100vh;
+  background-image: url("https://directlinedev.com/media/cases/rooney/header/background_1_zM58lsj.wide.jpeg");
+  background-size:cover;
+  position: relative;
+}
+
+.bannerText {
+  text-align:left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.bannerTitle {
+  font-size:25px;
+  text-align: center;
+  font-style: italic;
+}
+
+.bannerDesc {
+  font-size:15px;
+  text-align: center;
+  font-style: italic;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: rgb(112, 216, 206);
+  border: 2px solid yellowgreen;
+}
+
+.bIcon {
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+}
+
+.img-fluid:hover {
+  border: 2px solid yellowgreen;
+}
+.card-title{
+  font-weight:bold;
+}
+
+.card-img-top1 {
+  height: 50vh;
+  background-image: url("https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/208661935/original/075ca9d9ca84fe29daf319c1e2c00dbcb3fa32c5/create-static-website-using-html-css-and-bootstrap.jpg");
+  background-size:cover;
+}
+.card-img-top2 {
+  height: 50vh;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/273/542/non_2x/online-food-order-concept-vector.jpg");
+  background-size:cover;
+}
+.card-img-top3 {
+  height: 50vh;
+  background-image: url("https://image.freepik.com/free-vector/flat-travel-background_23-2148051500.jpg");
+  background-size:cover;
+}
+.card-img-top4 {
+  height: 50vh;
+  background-image: url("https://wallpapertag.com/wallpaper/full/d/2/8/653187-top-cute-cat-backgrounds-2560x1600-hd-for-mobile.jpg");
+  background-size:cover;
+}
+.card-img-top5 {
+  height: 50vh;
+  background-image: url("https://thumbs.dreamstime.com/b/d-white-people-to-do-list-person-cork-board-post-ticks-pushpin-background-30901536.jpg");
+  background-size:cover;
+}
+.card-img-top6 {
+  height: 50vh;
+  background-image: url("https://thumbs.dreamstime.com/b/calculation-data-financial-investment-market-white-line-icon-colorful-circle-background-vector-eps-abstract-template-145369204.jpg");
+  background-size:cover;
+}
+.hr {
+  border-style: dotted;
+  border-width: 6px;
+  width: 4%;
+  border-top: 0;
+  border-color: #00f7ff;
+  text-align: center;
+}
+.divider-grey {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 50px;
+  border-top: 2px solid #b3b3b1;
+  padding-bottom: 40px;
+}
